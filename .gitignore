@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+checkpoint.pt
+generated_path.png
+generated_path_screenshot.png
