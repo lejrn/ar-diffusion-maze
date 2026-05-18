@@ -18,7 +18,7 @@ uv sync
 uv run python src/train.py
 ```
 
-## Visualise
+## Visualize
 
 ```bash
 uv run python src/visualize.py
